@@ -18,4 +18,4 @@ The app uses local storage (sqflite) for saving app data and Provider state mana
 
 
 ## APK Link
-https://drive.google.com/drive/folders/1FpoS4Tz8vIbx2JFT16uiWesQjUa6sU4l?usp=sharing
+https://drive.google.com/file/d/1sbUDaWcOdS6XBEZYoQ9ylY7DlBDjGAx_/view?usp=sharing
